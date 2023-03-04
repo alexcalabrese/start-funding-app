@@ -1,5 +1,6 @@
-
-<img align="center" src="demo/logo.png" height="100px"/>
+<div align="center">
+  <img align="center" src="demo/logo.png" height="100px"/>
+</div>
 
 
 # Start Funding - Algorand Crowdfunding DApp
